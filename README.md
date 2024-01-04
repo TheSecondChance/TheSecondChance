@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/@eyasu_software" target="blank"><img src="https://img.shields.io/twitter/follow/@eyasu_software?logo=twitter&style=for-the-badge" alt="@eyasu_software" /></a> </p>
 
-- 🌱 I’m currently student at **Alx Software Engineering**
+- 🌱  **My work** encompasses the entire software development lifecycle,
+-  from conceptualization and design to coding, testing, and ongoing maintenance
 
 - 📫 How to reach me **mesakmegerem@gmail.com**
 
